@@ -1,2 +1,1 @@
-# policy
-Privacy policy
+# MonGame.Github.io
